@@ -3,7 +3,7 @@ import time
 
 # Create the main window
 window = tk.Tk()
-window.title("Digital Clock")
+window.title("DIGITAL CLOCK")
 window.geometry("700x180")
 window.configure(bg="black")
 
